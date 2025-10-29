@@ -1,0 +1,8 @@
+{
+  "name": "warehousex-frontend",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "serve -s . -l 3000"
+  },
+  "dependencies": {}
+}

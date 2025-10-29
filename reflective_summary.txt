@@ -1,0 +1,10 @@
+Reflective Summary — How Microsoft Copilot Assisted
+
+Throughout the development of this full-stack integration project, Microsoft Copilot acted as an intelligent coding partner:
+- Suggested optimized SQL patterns (CTEs, indexed predicates) and highlighted potential full-table scans.
+- Proposed batch-fetch patterns to replace N+1 queries and sample code for prepared statements.
+- Helped generate boilerplate Express routes, Dockerfile snippets, and deployment config examples.
+- Recommended fixes for transaction-related race conditions and provided test case ideas for debugging.
+- Assisted in writing README documentation and concise reflective summaries.
+
+The suggestions from Copilot were reviewed and adapted to fit the project's needs; Copilot accelerated routine work and helped catch likely issues early.
